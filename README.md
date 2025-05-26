@@ -1,6 +1,9 @@
 # 🐍 Terminal Snake Game
 
-A classic Snake game implementation that runs in your terminal, featuring colorful graphics, smooth controls, and progressive difficulty.
+> [!IMPORTANT]
+> I created this project as a POC using the [Warp terminal](https://www.warp.dev/). All code (and the README below, aside from this snippet) was written by Warp's free AI.
+
+A classic Snake game implementation that runs in your terminal, featuring colorful graphics, smooth controls, and progressive difficulty
 
 ```
 +-------------------+
